@@ -50,16 +50,6 @@
 
 ---
 
----
-
-## 🧠 Currently Learning
-
-* Kubernetes Operators
-* Platform Engineering
-* Observability & SRE practices
-
----
-
 ## 🏗️ Featured DevOps Concepts
 
 ```text
