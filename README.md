@@ -10,7 +10,7 @@
 
 * ☁️ Cloud Engineer passionate about scalable infrastructure
 * 🔁 DevOps enthusiast focused on automation & reliability
-* 🧩 Love working with Kubernetes, CI/CD and IaC
+* 🧩 Love working with AWS, CI/CD and IaC
 * 📦 Building reproducible infrastructure
 * 📈 Always learning new cloud-native tools
 
